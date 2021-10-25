@@ -4,4 +4,4 @@ test
 test2
 
 
-sto scrivendo su vscode
+sto scrivendo su vscode;
